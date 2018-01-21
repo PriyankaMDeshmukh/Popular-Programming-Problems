@@ -1,4 +1,9 @@
-package arrays;
+// Check whether all characters in the given string are unique or not.
+// I have tried solving this problem using 3 methods:
+//        1. Using an additional data structure (an array of int or boolean which can keep track of all the characters encountered in the string)
+//        2.) Using bit manipulation 
+//        3.) Using 2 for loops (no space but complexity O( n^2) )
+
 
 public class AllUniqueString {
 

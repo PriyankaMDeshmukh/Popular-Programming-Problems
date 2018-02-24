@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class MyClass {
+public class AnagramHashMap {
     public static void main(String args[]) {
         System.out.println(anagram("Priyanka","Priyankn"));
     }

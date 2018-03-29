@@ -14,6 +14,7 @@ public class StackUsingLinkedList{
          top=n;
      }
      void pop(){
+         if(top!=null)
          top=top.next;
      }
      void print(){
